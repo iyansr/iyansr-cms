@@ -17,14 +17,14 @@
     "bg_color": {
       "type": "string",
       "required": true,
-      "unique": true,
+      "unique": false,
       "default": "#6649b8"
     },
     "color": {
       "type": "string",
       "required": true,
-      "unique": true,
-      "default": "#141418"
+      "unique": false,
+      "default": "#f5f5f5"
     }
   }
 }
